@@ -8,11 +8,11 @@ Sample website with plenty of files for demos. This has lots of examples
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Doing this just for learning and having fun
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Here is going to be all deploy instructions
 
 ## How to contribute
 
