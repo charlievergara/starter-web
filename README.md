@@ -16,7 +16,7 @@ Here is going to be all deploy instructions
 
 ## How to contribute
 
-Sample website with plenty of files for demos
+Please always fork this repo an create a Pull request for review
 
 ## Copyright
 
