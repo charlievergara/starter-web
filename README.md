@@ -17,3 +17,7 @@ Here is going to be all deploy instructions
 ## How to contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2020.Carlos Vergara
