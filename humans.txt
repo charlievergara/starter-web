@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos Vergara -- Developer -- c.vergara@demo.com
 
 # THANKS
 
