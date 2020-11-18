@@ -20,4 +20,4 @@ Please always fork this repo an create a Pull request for review
 
 ## Copyright
 
-2020.Carlos Vergara
+2020. Carlos Vergara. All right reserved.
